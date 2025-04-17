@@ -18,9 +18,9 @@ I chose this topic of analysis because I enjoy reading and researching history. 
 3)	Which time frames or specific dates had the largest number of losses?
 4)	What were some key demographics that correlated to losses?
 ## Normalizing the Data
-	To correctly analyze the data, it had to be scraped from the source page by page. The data source had no way to bulk download the tables. To accomplish this, I had to employ the use of C++, windows subprocesses, regular expressions, headless chrome browsers, and file organization. This first allowed me to repetitively scrape the host site and extract the bulk data in a (somewhat) efficient manner. After the bulk data was extracted and put into its respective folder, I then used python to parse and correctly structure the data into pandas dataframes and move those onto CSV files. After moving the data onto CSV files, I could then load them into a Postgres database.
+To correctly analyze the data, it had to be scraped from the source page by page. The data source had no way to bulk download the tables. To accomplish this, I had to employ the use of C++, windows subprocesses, regular expressions, headless chrome browsers, and file organization. This first allowed me to repetitively scrape the host site and extract the bulk data in a (somewhat) efficient manner. After the bulk data was extracted and put into its respective folder, I then used python to parse and correctly structure the data into pandas dataframes and move those onto CSV files. After moving the data onto CSV files, I could then load them into a Postgres database.
 ## Problems and Hurdles
-	The main problem with this project was the need to create logic to scrape the site where the data was located. The process for correctly querying the site then updating the program to the next record was extensive. Another problem was the lack of quantitative data, although qualitative data seemed to make up for the disparity. 
+The main problem with this project was the need to create logic to scrape the site where the data was located. The process for correctly querying the site then updating the program to the next record was extensive. Another problem was the lack of quantitative data, although qualitative data seemed to make up for the disparity. 
 ## Technologies Used
 1)	Python
 2)	SQL
