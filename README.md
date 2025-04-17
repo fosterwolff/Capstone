@@ -1,11 +1,8 @@
 # Analysis of The Casualties of The Vietnam War
-
-##Executive Summary
-	This project is an analysis of the casualties and posthumous awards of the Vietnam war conflict. The question is to find any correlation between branch, rank, MOS, or location and the patterns of casualties. 
+This project is an analysis of the casualties and posthumous awards of the Vietnam war conflict. The question is to find any correlation between branch, rank, MOS, or location and the patterns of casualties. 
 ## Tableau Dashboard
 https://public.tableau.com/app/profile/foster.wolff/viz/Capstone_17449048095410/Introduction
 ## Table of Contents
-* [Executive Summary](#executive-summary)
 * [Tableau Dashboard](#Tableau-dashboard)
 * [Motivation](#motivation)
 * [Questions](#questions)
