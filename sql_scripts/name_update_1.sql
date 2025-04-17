@@ -1,0 +1,47 @@
+SELECT * FROM public.awards
+where name_of_individual = 'BAUMGARNER RAYMON';
+
+UPDATE awards SET name_of_individual = 'UNDERWOOD ANDREW FILLEBRO' WHERE name_of_individual = 'UNDERWOOD ANDREN';
+UPDATE awards SET name_of_individual = 'APPLEGATE PAUL ORBEN' WHERE name_of_individual = 'APPLEGAIT PAUL O';
+UPDATE awards SET name_of_individual = 'CORDINER DUANE GORDON' WHERE name_of_individual = 'CORDINER DUHNE G';
+UPDATE awards SET name_of_individual = 'PHILLIPS NATHANIEL JAMES' WHERE name_of_individual = 'PHILLIPS NATHANIE';
+UPDATE awards SET name_of_individual = 'BAUMGARNER RAYMOND ERVIN' WHERE name_of_individual = 'BAUMGARNER RAYMON';
+UPDATE awards SET name_of_individual = 'PETERSEN DANNY JOHN' WHERE name_of_individual = 'PETERSON DANNY';
+UPDATE awards SET name_of_individual = 'OVERMAN-RODRIGUEZ JOSE R' WHERE name_of_individual = 'OVERMAN RODRIGUEZ';
+UPDATE awards SET name_of_individual = 'WILLEFORD FRANKLIN PATRICK' WHERE name_of_individual = 'WILLEFORD FRANKLI';
+UPDATE awards SET name_of_individual = 'ROBERGE EDMUND EDWARD' WHERE name_of_individual = 'ROBERGE EDMOND E';
+UPDATE awards SET name_of_individual = 'BLANCHFIELD MICHAEL R' WHERE name_of_individual = 'BLANCHFIELD MICHA';
+UPDATE awards SET name_of_individual = 'MCCABE LESTER' WHERE name_of_individual = 'MC CABE LESTER';
+UPDATE awards SET name_of_individual = 'ODEA THOMAS FRANCIS JR' WHERE name_of_individual = 'O''DEA THOMAS F JR';
+UPDATE awards SET name_of_individual = 'DESOCIO DANIEL JOSEPH' WHERE name_of_individual = 'DE SOCIO DANIEL J';
+UPDATE awards SET name_of_individual = 'CASTLEBERRY JIMMIE LYNN' WHERE name_of_individual = 'CASTLEBERRY JIMMI';
+UPDATE awards SET name_of_individual = 'KINDSVATTER WARREN EARL' WHERE name_of_individual = 'KINDSVATTER WARRE';
+UPDATE awards SET name_of_individual = 'MCELROY DENNIS ARTHUR' WHERE name_of_individual = 'MC ELROY DENNIS A';
+UPDATE awards SET name_of_individual = 'MCMAHON THOMAS J' WHERE name_of_individual = 'MC MAHON THOMAS J';
+UPDATE awards SET name_of_individual = 'QUINONES-BORRAS NICHOLAS' WHERE name_of_individual = 'QUINONES BORRAS N';
+UPDATE awards SET name_of_individual = 'MORBITZER CHRISTOPHER GEO' WHERE name_of_individual = 'MORBITZER CHRISTO';
+UPDATE awards SET name_of_individual = 'RABEL LASZIO' WHERE name_of_individual = 'RABEL LASZLO';
+UPDATE awards SET name_of_individual = 'BENAVIDEZ BENJAMIN JOHN' WHERE name_of_individual = 'BENAVIDEZ BENJAMI';
+UPDATE awards SET name_of_individual = 'KIRKPATRICK RONALD RENE' WHERE name_of_individual = 'KIRKPATRICK RONAL';
+UPDATE awards SET name_of_individual = 'FALDERMEYER HAROLD JOHN' WHERE name_of_individual = 'FALDERMEYER HAROL';
+UPDATE awards SET name_of_individual = 'FRATELLENICO FRANK ROCCO' WHERE name_of_individual = 'FRATELLENICO FRAN';
+UPDATE awards SET name_of_individual = 'MCINTOSH ESTILL' WHERE name_of_individual = 'MC INTOSH ESTILL';
+UPDATE awards SET name_of_individual = 'ALICEA MIGUEL ANGEL CRUZ' WHERE name_of_individual = 'ALICZA MIGUEL A';
+UPDATE awards SET name_of_individual = 'HUMPHREYS CHALMERS CLAUDE' WHERE name_of_individual = 'HUMPHREYS CHALMER';
+UPDATE awards SET name_of_individual = 'CONSTANTINO CLIFFORD JOHN' WHERE name_of_individual = 'CONSTANTINO CLIFF';
+UPDATE awards SET name_of_individual = 'SANDERS LOYD HOWARD' WHERE name_of_individual = 'SANDERS LOY H';
+UPDATE awards SET name_of_individual = 'JACOBSON JON CHRISTOPHER' WHERE name_of_individual = 'JACOBSEN JON C';
+UPDATE awards SET name_of_individual = 'LAVITE ANTHONY III' WHERE name_of_individual = 'LAVITE ANTHONY II';
+UPDATE awards SET name_of_individual = 'BARIGLIO RICHARD LOUIS' WHERE name_of_individual = 'BARIGLTO RICHARD';
+UPDATE awards SET name_of_individual = 'NUSSBAUMER STEVE OWEN' WHERE name_of_individual = 'NUSSBAUMER STEVEN';
+UPDATE awards SET name_of_individual = 'KIERZNOWSKI TERRENCE E' WHERE name_of_individual = 'KIERZNOWSKI TERRE';
+UPDATE awards SET name_of_individual = 'YOUNG STEPHEN WALTER' WHERE name_of_individual = 'YOUNG STEVEN W';
+UPDATE awards SET name_of_individual = 'SAVOY CLAYTON E' WHERE name_of_individual = 'SAUOY CLAYTON E';
+UPDATE awards SET name_of_individual = 'SANTIAGO-COLON HECTOR' WHERE name_of_individual = 'SANTIAGO HECTOR M';
+UPDATE awards SET name_of_individual = 'MCCLENTON HENRY' WHERE name_of_individual = 'MC CLENTON HENRY';
+UPDATE awards SET name_of_individual = 'MCDONALD MARTIN' WHERE name_of_individual = 'MC DONALD MARTIN';
+UPDATE awards SET name_of_individual = 'AVERA JOHN A' WHERE name_of_individual = 'AUERA JOHN A';
+UPDATE awards SET name_of_individual = 'MCMILLAN JAMES M' WHERE name_of_individual = 'MC MILLAN JAMES M';
+UPDATE awards SET name_of_individual = 'SWARBRICK LAWRENCE' WHERE name_of_individual = 'SWARBRICK LAWRENC';
+UPDATE awards SET name_of_individual = 'DELA GARZA EMILIO A JR' WHERE name_of_individual = 'DELAGARZA EMILO';
+
